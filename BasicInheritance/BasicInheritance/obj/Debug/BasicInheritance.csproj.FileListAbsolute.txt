@@ -1,0 +1,7 @@
+C:\Users\mgluza\source\repos\BasicInheritance\BasicInheritance\bin\Debug\BasicInheritance.exe.config
+C:\Users\mgluza\source\repos\BasicInheritance\BasicInheritance\bin\Debug\BasicInheritance.exe
+C:\Users\mgluza\source\repos\BasicInheritance\BasicInheritance\bin\Debug\BasicInheritance.pdb
+C:\Users\mgluza\source\repos\BasicInheritance\BasicInheritance\obj\Debug\BasicInheritance.csprojResolveAssemblyReference.cache
+C:\Users\mgluza\source\repos\BasicInheritance\BasicInheritance\obj\Debug\BasicInheritance.csproj.CoreCompileInputs.cache
+C:\Users\mgluza\source\repos\BasicInheritance\BasicInheritance\obj\Debug\BasicInheritance.exe
+C:\Users\mgluza\source\repos\BasicInheritance\BasicInheritance\obj\Debug\BasicInheritance.pdb
